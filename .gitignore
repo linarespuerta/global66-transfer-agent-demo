@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Video recordings — too large for git; link the demo from the README instead
+*.mp4

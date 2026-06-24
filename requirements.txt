@@ -1,0 +1,9 @@
+# Unpinned so pip resolves a compatible set for your local Python.
+# (Re-pin with `pip freeze` once it installs cleanly if you want reproducibility.)
+langchain
+langchain-google-genai
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+python-dotenv
